@@ -1,11 +1,2 @@
 
 
-
-@media (max-width: 44em) {
-    .main-nav {
-        display: none;
-    }
-    .fa-bars {
-        display: inline-block;
-    }
-}
