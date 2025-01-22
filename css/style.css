@@ -22,6 +22,12 @@ html {
     background-color: #fff;
     margin: 2rem;
 }
+
+.fa-bars {
+    font-size: 54px;
+    text-align: center;
+    display: none;
+}
 .main__header_all {
     width: 116rem;
     height: 6.2rem;
